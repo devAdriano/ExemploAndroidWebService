@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WSExample_Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search_by_id">SearchByIDActivity</string>
+</resources>
